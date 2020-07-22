@@ -11,7 +11,7 @@ DOOM - Doom é uma série de jogos eletrônicos de tiro em primeira pessoa desen
 
 
 **Para executar o projeto, basta clicar no arquivo:**
-> `index` 
+> `index.html` 
 
 ## Vídeo do Fogo sendo Executado:
 - https://www.youtube.com/watch?v=MvAykPpfpb4
